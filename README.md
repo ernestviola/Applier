@@ -1,0 +1,1 @@
+Application to gather job posts from various job boards, filter them based on custom criteria, and present them to the user in a convenient way. 
